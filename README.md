@@ -2,7 +2,7 @@
 ANGULAR - LEARNING 
 STARTING THIS PROJECT:
   
-    1) Create React App
+    1) Create App (CREATES NODE_MODULES AND ITS DEPENDENCIES ) 
 
     2) RUN `npm start`
 
